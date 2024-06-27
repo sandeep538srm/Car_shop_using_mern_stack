@@ -1,0 +1,20 @@
+[
+    {
+      "p_id": 1,
+      "u_name": "user1",
+      "p_image": "image_url_1",
+      "p_cost": "29.99"
+    },
+    {
+      "p_id": 2,
+      "u_name": "user1",
+      "p_image": "image_url_2",
+      "p_cost": "39.99"
+    },
+    {
+      "p_id": 3,
+      "u_name": "user2",
+      "p_image": "image_url_3",
+      "p_cost": "49.99"
+    }
+  ]

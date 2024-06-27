@@ -1,0 +1,122 @@
+[
+    {
+        "u_id": 1,
+        "u_name": "user1",
+        "u_pwd": "password1",
+        "u_email": "user1@example.com",
+        "u_addr": "123 Main St, Cityville",
+        "u_contact": "123-456-7890"
+    },
+    {
+        "u_id": 2,
+        "u_name": "user2",
+        "u_pwd": "password2",
+        "u_email": "user2@example.com",
+        "u_addr": "456 Elm St, Townsville",
+        "u_contact": "123-456-7891"
+    },
+    {
+        "u_id": 3,
+        "u_name": "user3",
+        "u_pwd": "password3",
+        "u_email": "user3@example.com",
+        "u_addr": "789 Oak St, Villageville",
+        "u_contact": "123-456-7892"
+    },
+    {
+        "u_id": 4,
+        "u_name": "user4",
+        "u_pwd": "password4",
+        "u_email": "user4@example.com",
+        "u_addr": "101 Maple St, Hamletville",
+        "u_contact": "123-456-7893"
+    },
+    {
+        "u_id": 5,
+        "u_name": "user5",
+        "u_pwd": "password5",
+        "u_email": "user5@example.com",
+        "u_addr": "202 Birch St, Cityville",
+        "u_contact": "123-456-7894"
+    },
+    {
+        "u_id": 6,
+        "u_name": "user6",
+        "u_pwd": "password6",
+        "u_email": "user6@example.com",
+        "u_addr": "303 Cedar St, Townsville",
+        "u_contact": "123-456-7895"
+    },
+    {
+        "u_id": 7,
+        "u_name": "user7",
+        "u_pwd": "password7",
+        "u_email": "user7@example.com",
+        "u_addr": "404 Pine St, Villageville",
+        "u_contact": "123-456-7896"
+    },
+    {
+        "u_id": 8,
+        "u_name": "user8",
+        "u_pwd": "password8",
+        "u_email": "user8@example.com",
+        "u_addr": "505 Spruce St, Hamletville",
+        "u_contact": "123-456-7897"
+    },
+    {
+        "u_id": 9,
+        "u_name": "user9",
+        "u_pwd": "password9",
+        "u_email": "user9@example.com",
+        "u_addr": "606 Willow St, Cityville",
+        "u_contact": "123-456-7898"
+    },
+    {
+        "u_id": 10,
+        "u_name": "user10",
+        "u_pwd": "password10",
+        "u_email": "user10@example.com",
+        "u_addr": "707 Ash St, Townsville",
+        "u_contact": "123-456-7899"
+    },
+    {
+        "u_id": 11,
+        "u_name": "user11",
+        "u_pwd": "password11",
+        "u_email": "user11@example.com",
+        "u_addr": "808 Cherry St, Villageville",
+        "u_contact": "123-456-7800"
+    },
+    {
+        "u_id": 12,
+        "u_name": "user12",
+        "u_pwd": "password12",
+        "u_email": "user12@example.com",
+        "u_addr": "909 Walnut St, Hamletville",
+        "u_contact": "123-456-7801"
+    },
+    {
+        "u_id": 13,
+        "u_name": "user13",
+        "u_pwd": "password13",
+        "u_email": "user13@example.com",
+        "u_addr": "1010 Poplar St, Cityville",
+        "u_contact": "123-456-7802"
+    },
+    {
+        "u_id": 14,
+        "u_name": "user14",
+        "u_pwd": "password14",
+        "u_email": "user14@example.com",
+        "u_addr": "1111 Chestnut St, Townsville",
+        "u_contact": "123-456-7803"
+    },
+    {
+        "u_id": 15,
+        "u_name": "user15",
+        "u_pwd": "password15",
+        "u_email": "user15@example.com",
+        "u_addr": "1212 Redwood St, Villageville",
+        "u_contact": "123-456-7804"
+    }
+]

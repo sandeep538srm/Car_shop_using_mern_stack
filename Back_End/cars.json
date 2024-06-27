@@ -1,0 +1,802 @@
+[
+    {
+        "car_id": 1,
+        "car_name": "Honda Accord",
+        "car_cost": 20500,
+        "car_cat": "SUV",
+        "car_desc": "A reliable and stylish sedan with advanced safety features.",
+        "car_img": "https://imgd.aeplcdn.com/227x128/cw/ec/21613/Honda-Accord-Right-Front-Three-Quarter-82683.jpg?wm=0&q=80"
+    },
+    {
+        "car_id": 2,
+        "car_name": "Tesla Model S",
+        "car_cost": 21000,
+        "car_cat": "Truck",
+        "car_desc": "A high-performance electric sedan with a long range.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEr5NHD5Ulm1Ef4gLk9g87FFssWZM6ZT8Lxtg0JddzynHOC0UNrwI2tufw6HEL"
+    },
+    {
+        "car_id": 3,
+        "car_name": "Ford F-150",
+        "car_cost": 21500,
+        "car_cat": "Electric",
+        "car_desc": "A powerful and versatile pickup truck.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxUoaqqeUIGr91nRB3LZzVBzzXGAox9PpKcWz_leFpUJg-p0LdGHdcXhVGT-17"
+    },
+    {
+        "car_id": 4,
+        "car_name": "Chevrolet Silverado",
+        "car_cost": 22000,
+        "car_cat": "Truck",
+        "car_desc": "A durable and capable full-size pickup truck.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEsBclzElNiOgnvFgzgV_-6fXYEo46vUlYvK-E_Yq-5JHYa3_Z_MPojmQmrFmU"
+    },
+    {
+        "car_id": 5,
+        "car_name": "BMW 3 Series",
+        "car_cost": 22500,
+        "car_cat": "Sports",
+        "car_desc": "A sporty and luxurious compact sedan.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0Z3_DO_IV2MEzuqZ2XhxcqGSqCeycxZTn_5CpLOFkxG3FSz-bQQSnCAEWWXV"
+    },
+    {
+        "car_id": 6,
+        "car_name": "Audi Q5",
+        "car_cost": 23000,
+        "car_cat": "Sedan",
+        "car_desc": "A stylish and practical luxury SUV.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREfXmTnqQn9f4wDYcUTW-eTGzWh2bnJhbucbOEPPCPHc50GMsBNS7PETyvkQqu"
+    },
+    {
+        "car_id": 7,
+        "car_name": "Mercedes-Benz C-Class",
+        "car_cost": 23500,
+        "car_cat": "SUV",
+        "car_desc": "A sophisticated and well-appointed luxury sedan.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTolrMRJo3C9DWGNIo_QfJ7PG7dg_mDogtQXzM9wQIUoMIBm1e3Nc9DMyEOvEH0"
+    },
+    {
+        "car_id": 8,
+        "car_name": "Subaru Outback",
+        "car_cost": 24000,
+        "car_cat": "SUV",
+        "car_desc": "A rugged and versatile all-wheel-drive SUV.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpzsH7RxiVtxneHxn9S9lp_PDep4Y5npISSbhZvUs3jl9JRPvh2GGAmu6K-bhq"
+    },
+    {
+        "car_id": 9,
+        "car_name": "Jeep Wrangler",
+        "car_cost": 24500,
+        "car_cat": "ElectriC",
+        "car_desc": "An iconic off-road vehicle with exceptional capability.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBrgA9nS2fgTkqP7FKj4T0SV7wuvKqjsgB4zihhbh9VJ8sXFYwNYEkFU7jNPsq"
+    },
+    {
+        "car_id": 10,
+        "car_name": "Nissan Altima",
+        "car_cost": 25000,
+        "car_cat": "Luxury",
+        "car_desc": "A legendary sports car with exceptional performance.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiRNuh4iFrQPueta_M3aoW9AIYr6SwQE1VsOk8NoTZzjM7z_xr-4ICxeJ5VAiW"
+    },
+    {
+        "car_id": 11,
+        "car_name": "Hyundai Sonata",
+        "car_cost": 25500,
+        "car_cat": "Sports",
+        "car_desc": "A comfortable and fuel-efficient midsize sedan.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2UPzJeNVGhY2u5a3XYFZJpTRNevD99odB78ULLTuRWgCGamlTEaUMxuaYXYxL"
+    },
+    {
+        "car_id": 12,
+        "car_name": "Kia Sorento",
+        "car_cost": 26000,
+        "car_cat": "Sedan",
+        "car_desc": "A reliable and stylish sedan with advanced safety features.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7Ho_pRmbCdrTAJ858KeNWykfSH0Kjxi2yjsso4g4vaTYOsIajnUuUuXwb9Nbn"
+    },
+    {
+        "car_id": 13,
+        "car_name": "Mazda CX-5",
+        "car_cost": 26500,
+        "car_cat": "SUV",
+        "car_desc": "A high-performance electric sedan with a long range.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS783NEf24GgfcvrLqtwg6S1vxbYIU4Q1AikZtGdQ16nhH_JAvw-6Fjtr4CekKg"
+    },
+    {
+        "car_id": 14,
+        "car_name": "Volkswagen Golf",
+        "car_cost": 27000,
+        "car_cat": "Truck",
+        "car_desc": "A powerful and versatile pickup truck.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDRFz-U6HT-9uQu5lQhGdJPBi97rMI5xn9Ma76wtKC5eIK-IJufjp_5gBQOOcq"
+    },
+    {
+        "car_id": 15,
+        "car_name": "Volvo XC60",
+        "car_cost": 27500,
+        "car_cat": "Electric",
+        "car_desc": "A durable and capable full-size pickup truck.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-g0xILGM9sSkgZE5ORMl4fEk1t3zU11QnBOXmDkgvD-SYGJ7SuhjZF0Gz2nYp"
+    },
+    {
+        "car_id": 16,
+        "car_name": "Lexus RX",
+        "car_cost": 28000,
+        "car_cat": "Luxury",
+        "car_desc": "A sporty and luxurious compact sedan.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWZVF4OdbiBoJOjyU2eI6ErpBIYhFLPADzLFcsVQb9SWLWrZxyEVso6ePmK-Zv"
+    },
+    {
+        "car_id": 17,
+        "car_name": "Acura MDX",
+        "car_cost": 28500,
+        "car_cat": "Sports",
+        "car_desc": "A stylish and practical luxury SUV.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqkcahXN7fBuZhFyYExdv-LhDdxFksY7y_FxCqzWcr76GOAY1q0xMOXqDapg_L"
+    },
+    {
+        "car_id": 18,
+        "car_name": "Infiniti QX60",
+        "car_cost": 29000,
+        "car_cat": "Sedan",
+        "car_desc": "A sophisticated and well-appointed luxury sedan.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQybsTzQiE6EoSgeyv6Lwr5fFvGe76m3lHk1SDtDLpt0-pmiLsHvxumBBDiD2rD"
+    },
+    {
+        "car_id": 19,
+        "car_name": "Cadillac Escalade",
+        "car_cost": 29500,
+        "car_cat": "SUV",
+        "car_desc": "A rugged and versatile all-wheel-drive SUV.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKwkWixZfOmg4CLYdk6euv8pFpOXFRwY98QP7pBkWaElEyQsdhLi-JGksLAGc"
+    },
+    {
+        "car_id": 20,
+        "car_name": "Jaguar F-Pace",
+        "car_cost": 30000,
+        "car_cat": "Truck",
+        "car_desc": "An iconic off-road vehicle with exceptional capability.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGtOq3Jk9eKEovagN6bi3aRvas3vZXTDzITsjUuhMCpiL6HUxRIZiou6FRihAi"
+    },
+    {
+        "car_id": 21,
+        "car_name": "Land Rover Discovery",
+        "car_cost": 30500,
+        "car_cat": "Electric",
+        "car_desc": "A legendary sports car with exceptional performance.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRek_Sfm3vnJf85gjm151SivuI4Y_4Wyexd36i7AFtETiaPLa7eSmoxhTIZv65"
+    },
+    {
+        "car_id": 22,
+        "car_name": "Alfa Romeo Giulia",
+        "car_cost": 31000,
+        "car_cat": "Luxury",
+        "car_desc": "A comfortable and fuel-efficient midsize sedan.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRy6n7QBxzZqQPDaSF_fM_0Oehji1VJ87-49nhAXaWU62lpEDqw2f8WSnjN55Ra"
+    },
+    {
+        "car_id": 23,
+        "car_name": "Fiat 500",
+        "car_cost": 31500,
+        "car_cat": "Sports",
+        "car_desc": "A reliable and stylish sedan with advanced safety features.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMehloMMwHILBYAPDvyhH-nippx4XhkrcokHex7HbytpOndbyI5aLLc5WviIOk"
+    },
+    {
+        "car_id": 24,
+        "car_name": "Mitsubishi Outlander",
+        "car_cost": 32000,
+        "car_cat": "Sedan",
+        "car_desc": "A high-performance electric sedan with a long range.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRI6Q3zPz4lnVNCd_SDV7XllqLbtsmlVHfoBAK8GuLA-EyTkL43jJaqpZjFCDpB"
+    },
+    {
+        "car_id": 25,
+        "car_name": "Mini Cooper",
+        "car_cost": 32500,
+        "car_cat": "SUV",
+        "car_desc": "A powerful and versatile pickup truck.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ6A8jN2L3M3viFLk4Y0eLHAc0TW1v7JEWzTMB2lXM-5wxnfPJD771_ScizSrL"
+    },
+    {
+        "car_id": 26,
+        "car_name": "Porsche Cayenne",
+        "car_cost": 33000,
+        "car_cat": "Truck",
+        "car_desc": "A durable and capable full-size pickup truck.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoEa9ZFwaId_EZSQpYxMbw97uVDBNdC6MRv2m4io1JqZP8o4pL_IauHvuw5UeR"
+    },
+    {
+        "car_id": 27,
+        "car_name": "Maserati Ghibli",
+        "car_cost": 33500,
+        "car_cat": "Electric",
+        "car_desc": "A sporty and luxurious compact sedan.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRFJg0-K715pz8cV2RwENxWsWK0SfhffBfMspUw2bvXAte01MV-2ZD3Jbjbfl-"
+    },
+    {
+        "car_id": 28,
+        "car_name": "Ferrari 488",
+        "car_cost": 34000,
+        "car_cat": "Luxury",
+        "car_desc": "A stylish and practical luxury SUV.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThh3N8PLZ6oonKm5ql3_DaCLwSK3-T43GihKEnfobk4aABxlV41PNXWZWCCC8C"
+    },
+    {
+        "car_id": 29,
+        "car_name": "Lamborghini Huracan",
+        "car_cost": 34500,
+        "car_cat": "Sports",
+        "car_desc": "A sophisticated and well-appointed luxury sedan.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrfCqDig3rs5CG4Wv6c9UbLoIY1vfF70aaOvQa6JOTIVXhIdvy2-dpmCj4ect3"
+    },
+    {
+        "car_id": 30,
+        "car_name": "Bentley Continental",
+        "car_cost": 35000,
+        "car_cat": "Sedan",
+        "car_desc": "A rugged and versatile all-wheel-drive SUV.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV6ZGp-YJocIQkGtO3qwU8BI-3Yxqu8N4w58BYh30mj60ZCkybqWY462-REC6G"
+    },
+    {
+        "car_id": 31,
+        "car_name": "Aston Martin DB11",
+        "car_cost": 35500,
+        "car_cat": "SUV",
+        "car_desc": "An iconic off-road vehicle with exceptional capability.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5ZXrjn8YfaBnpzQdLdgJWEE5MAgbBf8PSn7zGSXR5DBgUL-rEoljE09D5I6yq"
+    },
+    {
+        "car_id": 32,
+        "car_name": "Rolls-Royce Phantom",
+        "car_cost": 36000,
+        "car_cat": "Truck",
+        "car_desc": "A legendary sports car with exceptional performance.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiXgQMNN5jDU95AtSmKI-6N5h14pSg_QwXHeh3AYVAofZz1E8aXlN7I20gfQPP"
+    },
+    {
+        "car_id": 33,
+        "car_name": "McLaren 720S",
+        "car_cost": 36500,
+        "car_cat": "Electric",
+        "car_desc": "A comfortable and fuel-efficient midsize sedan.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnObhK0ErXmshaCqkV5eGX6OqdBJacc7f3zzKjDCY4BpeelVy_wNh1zAE5RW4r"
+    },
+    {
+        "car_id": 34,
+        "car_name": "Pagani Huayra",
+        "car_cost": 37000,
+        "car_cat": "Luxury",
+        "car_desc": "A reliable and stylish sedan with advanced safety features.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZGRPzp0zxZpewiWDe9SBHuyGfw2bE93BkHKyb3zcSYry9p7h95J6WGbrFiVRM"
+    },
+    {
+        "car_id": 35,
+        "car_name": "Bugatti Chiron",
+        "car_cost": 37500,
+        "car_cat": "Sports",
+        "car_desc": "A high-performance electric sedan with a long range.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTI9Tc4m6fu4TpbDAm-A67SI6YB0s7dIPgQOWB1dMgCkAV2z2Vyp01jFGls9W1b"
+    },
+    {
+        "car_id": 36,
+        "car_name": "Honda Civic",
+        "car_cost": 38000,
+        "car_cat": "Sedan",
+        "car_desc": "A powerful and versatile pickup truck.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGLABxiYjq5l_HHqCzFvy7zmxU_ibBB3wJ90a5xjnt9fM_ScTlktGJZm7bK0xs"
+    },
+    {
+        "car_id": 37,
+        "car_name": "Toyota Corolla",
+        "car_cost": 38500,
+        "car_cat": "SUV",
+        "car_desc": "A durable and capable full-size pickup truck.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDbWZnvlU0aMvz9fOswiE3av0euBxjKd1SIrNOZtglxTNNVhz-83sY3dZmvl2t"
+    },
+    {
+        "car_id": 38,
+        "car_name": "Ford Mustang",
+        "car_cost": 39000,
+        "car_cat": "Truck",
+        "car_desc": "A sporty and luxurious compact sedan.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnAJXRGaoThV6KE1EViCzqgz9u2XJQ797-2YFEAAoJgSMqWXflvuw2ZxDqggA0"
+    },
+    {
+        "car_id": 39,
+        "car_name": "Chevrolet Camaro",
+        "car_cost": 39500,
+        "car_cat": "Electric",
+        "car_desc": "A stylish and practical luxury SUV.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzSsGwmRHipfhr5bdlpzU5nRD47JepKu0UcNnc_yxEdMT68ZpSMiTLA5Ohe1AI"
+    },
+    {
+        "car_id": 40,
+        "car_name": "Dodge Charger",
+        "car_cost": 40000,
+        "car_cat": "Luxury",
+        "car_desc": "A sophisticated and well-appointed luxury sedan.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNmA3F34bZGioBAcaeMWyGY6ePzQ5KhAgGdnxDTHBlFDfSyI1eUmP1pplk8bZ9"
+    },
+    {
+        "car_id": 41,
+        "car_name": "Tesla Model 3",
+        "car_cost": 40500,
+        "car_cat": "Sports",
+        "car_desc": "A rugged and versatile all-wheel-drive SUV.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQH6mvyUM6FbwCRyVSyLlgIjKT84Okw_314v71ZQb6xLWHQfv82iP0bRSE3tDgm"
+    },
+    {
+        "car_id": 42,
+        "car_name": "Tesla Model X",
+        "car_cost": 41000,
+        "car_cat": "Sedan",
+        "car_desc": "An iconic off-road vehicle with exceptional capability.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDyJ6L20QhqSZQ9vU8Mppikhy9qJrpIO2-1SUL9R8dDcbog2RQa0UgXCdTc3G"
+    },
+    {
+        "car_id": 43,
+        "car_name": "Tesla Model Y",
+        "car_cost": 41500,
+        "car_cat": "SUV",
+        "car_desc": "A legendary sports car with exceptional performance.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrPRuGc3P7iT51QBN2Las3j4HtSWo9FOSSk8NYQGoLqh3c_frApbkwW2WDgXiO0"
+    },
+    {
+        "car_id": 44,
+        "car_name": "BMW X5",
+        "car_cost": 42000,
+        "car_cat": "Truck",
+        "car_desc": "A comfortable and fuel-efficient midsize sedan.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhJCTFMgNHsISxrNaUpkYb0YJ7y4IHgBAkwA8PF7IPzzjgDkLkWo44F4CKECSC"
+    },
+    {
+        "car_id": 45,
+        "car_name": "Audi A4",
+        "car_cost": 42500,
+        "car_cat": "Electric",
+        "car_desc": "A reliable and stylish sedan with advanced safety features.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdtosx2EDnkO67yS6EzowE41NDorYaCGMrokrdDqtyK61sopg-oNrbsRIrbgj_"
+    },
+    {
+        "car_id": 46,
+        "car_name": "Mercedes-Benz E-Class",
+        "car_cost": 43000,
+        "car_cat": "Luxury",
+        "car_desc": "A high-performance electric sedan with a long range.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNMyQvIA6o0ydVTiVBWRbjU3sbKwK5JmaurvSa2OvmyXca_JtN8R5UNGG0jGTI"
+    },
+    {
+        "car_id": 47,
+        "car_name": "Subaru Impreza",
+        "car_cost": 43500,
+        "car_cat": "Sports",
+        "car_desc": "A powerful and versatile pickup truck.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRz4rQlIE04jb5YDZId_8RI2UKtL6XziTe56w6Muuu6CBVwpoMdMsv-z4MI_QNr"
+    },
+    {
+        "car_id": 48,
+        "car_name": "Jeep Grand Cherokee",
+        "car_cost": 44000,
+        "car_cat": "Sedan",
+        "car_desc": "A durable and capable full-size pickup truck.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6Yaeu0ZfX1meSIuEJdp2vnYrwhXYqlANhKdVMLmzxMM_PLKS4YJGBGCAtvgYX"
+    },
+    {
+        "car_id": 49,
+        "car_name": "Toyota Highlander",
+        "car_cost": 44500,
+        "car_cat": "SUV",
+        "car_desc": "A sporty and luxurious compact sedan.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8wmGUJw7Z8Eb0SSQn5gQg3UGZwzWhJ51wNZB8bgTe9rSrkYRxK_thRq2ASGYk"
+    },
+    {
+        "car_id": 50,
+        "car_name": "Nissan Rogue",
+        "car_cost": 45000,
+        "car_cat": "Truck",
+        "car_desc": "A stylish and practical luxury SUV.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlfKvU1OMFNXGJJ-WXrwgxOYdUf9RSJ87a5VemtrlP4H5rozK7U3Y0fsQN7Ziu"
+    },
+    {
+        "car_id": 51,
+        "car_name": "Hyundai Tucson",
+        "car_cost": 45500,
+        "car_cat": "Electric",
+        "car_desc": "A sophisticated and well-appointed luxury sedan.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqmJl6uXtr7fUksOfDXzn4cQMeEZhk7KGYq-QW9Ucl9WP3EyEJczyd7I50cko9"
+    },
+    {
+        "car_id": 52,
+        "car_name": "Kia Optima",
+        "car_cost": 46000,
+        "car_cat": "Luxury",
+        "car_desc": "A rugged and versatile all-wheel-drive SUV.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQq40iDB9dERNRKfBywikX7UFT6LQi7QNcnRcCQcdOvkVwnFSUg4WovgKNxOppA"
+    },
+    {
+        "car_id": 53,
+        "car_name": "Mazda3",
+        "car_cost": 46500,
+        "car_cat": "Sports",
+        "car_desc": "An iconic off-road vehicle with exceptional capability.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShnr6FPF8nZXzuX2UlwLjon5U0lfIUWDXIfv-paf5j3KbZcz0RSQa2qRjNS5Lw"
+    },
+    {
+        "car_id": 54,
+        "car_name": "Volkswagen Passat",
+        "car_cost": 47000,
+        "car_cat": "Sedan",
+        "car_desc": "A legendary sports car with exceptional performance.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFIn2ZfcM6V0YtyaIQwvOecW5dli8DXb8sZRE-EhYC0S39ApB791G8oQ52Cyj3"
+    },
+    {
+        "car_id": 55,
+        "car_name": "Volvo S90",
+        "car_cost": 47500,
+        "car_cat": "Sedan",
+        "car_desc": "A comfortable and fuel-efficient midsize sedan.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmtVpW7mH_UQy1-MHgYer3DaV_I-Xy6fD5nSnMBxnNMyDKiw6OlS3_Fa-Ho4c"
+    },
+    {
+        "car_id": 56,
+        "car_name": "Lexus ES",
+        "car_cost": 48000,
+        "car_cat": "Sedan",
+        "car_desc": "A reliable and stylish sedan with advanced safety features.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOITgMzCqkSI34WBoZhEfKQHL10tx-WRiItHhcC3mQMrSt3H6Ecl34vZu1myhz"
+    },
+    {
+        "car_id": 57,
+        "car_name": "Acura TLX",
+        "car_cost": 48500,
+        "car_cat": "Electric",
+        "car_desc": "A high-performance electric sedan with a long range.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2h9IERtG5XEKyj69y9gzPXsEdj73NLFA-XksXI2snbPP_5RQRmLf8oMewFZKc"
+    },
+    {
+        "car_id": 58,
+        "car_name": "Infiniti Q50",
+        "car_cost": 49000,
+        "car_cat": "Luxury",
+        "car_desc": "A powerful and versatile pickup truck.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbVNVowPQCoMBktSfhOV5MJC3rb_-7qqQzoH6qY_iDVHExjToFTramZF0rWYJ_"
+    },
+    {
+        "car_id": 59,
+        "car_name": "Cadillac XT5",
+        "car_cost": 49500,
+        "car_cat": "Sports",
+        "car_desc": "A durable and capable full-size pickup truck.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIFQmwmbomoNlB8CZo4XsGibxguWn_TqjDS-NCsI-kPiSrG0gitkoc3_oj_p20"
+    },
+    {
+        "car_id": 60,
+        "car_name": "Jaguar XE",
+        "car_cost": 50000,
+        "car_cat": "Sedan",
+        "car_desc": "A sporty and luxurious compact sedan.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSigwgIDZI99UZaB6ySlGKi3f251E-HGoTHlvShL8hfWXrrGe5sEqauNkw9ZoLT"
+    },
+    {
+        "car_id": 61,
+        "car_name": "Land Rover Range Rover",
+        "car_cost": 50500,
+        "car_cat": "SUV",
+        "car_desc": "A stylish and practical luxury SUV.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSi-QAElLIvMJ0D4tMLx1of4LjdsyzXukO3xO-GjQAhOmJ_2VUBRB_KSLqExvjN"
+    },
+    {
+        "car_id": 62,
+        "car_name": "Alfa Romeo Stelvio",
+        "car_cost": 51000,
+        "car_cat": "Truck",
+        "car_desc": "A sophisticated and well-appointed luxury sedan.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpBxdXGcGLUnaBZnJ-nphNY4VarnnAwVR5HUABDPOFkkvnfRDqrOnVnlWOk0Ks"
+    },
+    {
+        "car_id": 63,
+        "car_name": "Fiat Panda",
+        "car_cost": 51500,
+        "car_cat": "Electric",
+        "car_desc": "A rugged and versatile all-wheel-drive SUV.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2WNZvz7iEIxYL566BzjvN21PW76jFdhzP0ONrcDCJDaURsuvOj3OkYrhlyeU2"
+    },
+    {
+        "car_id": 64,
+        "car_name": "Mitsubishi Eclipse",
+        "car_cost": 52000,
+        "car_cat": "Luxury",
+        "car_desc": "An iconic off-road vehicle with exceptional capability.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOmZrh4nI1rozlCb7-XQlrtH0gJECuh2RC7_FwuF_N5wHFHkBTSm_wdP65XuW"
+    },
+    {
+        "car_id": 65,
+        "car_name": "Mini Countryman",
+        "car_cost": 52500,
+        "car_cat": "Sports",
+        "car_desc": "A legendary sports car with exceptional performance.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7jJBKwlJjZ8dyw2nGqnNJxljF7p1kKPdTZ5xnmgEnQQY5hEbqBTBmqBzLJPCa"
+    },
+    {
+        "car_id": 66,
+        "car_name": "Porsche 911",
+        "car_cost": 53000,
+        "car_cat": "Sedan",
+        "car_desc": "A comfortable and fuel-efficient midsize sedan.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMV6xQb2kNh6aWx04K0_3GbCPg6s0CpEMpwYHscITE0f5cyZEJhNAmMgrXQb5E"
+    },
+    {
+        "car_id": 67,
+        "car_name": "Maserati Levante",
+        "car_cost": 53500,
+        "car_cat": "SUV",
+        "car_desc": "A reliable and stylish sedan with advanced safety features.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsM1fCw6OUHaX2wGHu3r_YE3EPDw75jwMdbj-rLvlQ3YC8zGfOvJ08i65CfVqp"
+    },
+    {
+        "car_id": 68,
+        "car_name": "Ferrari Portofino",
+        "car_cost": 54000,
+        "car_cat": "Electric",
+        "car_desc": "A high-performance electric sedan with a long range.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2gNAbif-11HOTHeFvLROCbhxOp68Qp8USnFPt2Qppe_FsI2e3gnz720UtHceE"
+    },
+    {
+        "car_id": 69,
+        "car_name": "Lamborghini Aventador",
+        "car_cost": 54500,
+        "car_cat": "Sports",
+        "car_desc": "A powerful and versatile pickup truck.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdQT4cJxDN3RBR7eX3kb2gGzmm6Xms_RSjTTWex0uGasKZAKg5IEUHCJDifxuY"
+    },
+    {
+        "car_id": 70,
+        "car_name": "Bentley Bentayga",
+        "car_cost": 55000,
+        "car_cat": "Luxury",
+        "car_desc": "A durable and capable full-size pickup truck.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCqf_Ba0C1KMej4VfPo-qMpHNHd9jd8gZ4FxPGTPS4NAQYdvM2jgu5bqdh4F59"
+    },
+    {
+        "car_id": 71,
+        "car_name": "Aston Martin Vantage",
+        "car_cost": 55500,
+        "car_cat": "Sports",
+        "car_desc": "A sporty and luxurious compact sedan.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_6m96gNxJ-ofvY-o1xsta0m52piM72z3yl6VYUanFXqm9c-dqCJtbZas6vOJH"
+    },
+    {
+        "car_id": 72,
+        "car_name": "Rolls-Royce Ghost",
+        "car_cost": 56000,
+        "car_cat": "Sedan",
+        "car_desc": "A stylish and practical luxury SUV.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRESqOCfN9YzDA6iamSCiC2myx52LLyJauepmGlyWrBR31xsk86cG3zuJ21iC_Y"
+    },
+    {
+        "car_id": 73,
+        "car_name": "McLaren GT",
+        "car_cost": 56500,
+        "car_cat": "Sports",
+        "car_desc": "A sophisticated and well-appointed luxury sedan.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnGndANxqIlNXm0Nd6dDDchYQo8bTgx2rIUMe6f1bHzgZOASXfi2IZUWjZYdrU"
+    },
+    {
+        "car_id": 74,
+        "car_name": "Pagani Zonda",
+        "car_cost": 57000,
+        "car_cat": "Sports",
+        "car_desc": "A rugged and versatile all-wheel-drive SUV.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3N_TeGCGhAr8cO_TssvckmRlfyRudUeHtMdaeiI8Qqw2W74CB6hcwGpnEC1mb"
+    },
+    {
+        "car_id": 75,
+        "car_name": "Bugatti Veyron",
+        "car_cost": 57500,
+        "car_cat": "Sports",
+        "car_desc": "An iconic off-road vehicle with exceptional capability.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRMPkcz4uQkCWuFNBeIqeidFi_q_4pz1iyreinfquCRxfuPRdXGdC_4gXl3W2C"
+    },
+    {
+        "car_id": 76,
+        "car_name": "Honda HR-V",
+        "car_cost": 58000,
+        "car_cat": "SUV",
+        "car_desc": "A legendary sports car with exceptional performance.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZYB7qW2XoV29N62N6V6TTnIQBZpioXjuFSXel6YwD4FQWdPWyDsfFOzaeLiBk"
+    },
+    {
+        "car_id": 77,
+        "car_name": "Toyota RAV4",
+        "car_cost": 58500,
+        "car_cat": "SUV",
+        "car_desc": "A comfortable and fuel-efficient midsize sedan.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFFIr3khhEYZ4gLyNtX-bTj2p32KWBS9ZvSVzJYM9gHpDq_vCoa-3lP0MG2_Aj"
+    },
+    {
+        "car_id": 78,
+        "car_name": "Ford Explorer",
+        "car_cost": 59000,
+        "car_cat": "Sedan",
+        "car_desc": "A reliable and stylish sedan with advanced safety features.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRU6UqbcuoKM2dE6tztrQHXcU50cJ0tzv6GdIeHQRja26enbvoFjUTJoc2y7I3Q0"
+    },
+    {
+        "car_id": 79,
+        "car_name": "Chevrolet Tahoe",
+        "car_cost": 59500,
+        "car_cat": "SUV",
+        "car_desc": "A high-performance electric sedan with a long range.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRa6t914sPb99dTaWrxbCeCzoM0gmbrKZ3TyfK6i-VNfLJmEr6lswkhYRsXyLhh"
+    },
+    {
+        "car_id": 80,
+        "car_name": "Dodge Durango",
+        "car_cost": 60000,
+        "car_cat": "SUV",
+        "car_desc": "A powerful and versatile pickup truck.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8FKfptwm0Xla7aDhVV7YH13kClAle14IqQiOaPdHL_a1hoCa4U0RBTJ4C45I2"
+    },
+    {
+        "car_id": 81,
+        "car_name": "Tesla Roadster",
+        "car_cost": 60500,
+        "car_cat": "Electric",
+        "car_desc": "A durable and capable full-size pickup truck.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRet3V_4meFDbS4IppxohGyahKyrmecOmC4I7nSDs4bc9b-YgzB9SBIjwpawSWP"
+    },
+    {
+        "car_id": 82,
+        "car_name": "BMW Z4",
+        "car_cost": 61000,
+        "car_cat": "Luxury",
+        "car_desc": "A sporty and luxurious compact sedan.",
+        "car_img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9S_S29XLuOvCcAgctt6y2uc4-Ht7Xp5AmHqENvm8JdOYqK5soCsQ813_aOecc"
+    },
+    {
+        "car_id": 83,
+        "car_name": "Audi TT",
+        "car_cost": 61500,
+        "car_cat": "Sports",
+        "car_desc": "A stylish and practical luxury SUV.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR587MThmolzCrukkdJ_E9Xz3QKilGHjlWFbhDo5h_gjQo3ttUrh2bY-w0b5tQ0"
+    },
+    {
+        "car_id": 84,
+        "car_name": "Mercedes-Benz G-Class",
+        "car_cost": 62000,
+        "car_cat": "SUV",
+        "car_desc": "A sophisticated and well-appointed luxury sedan.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbS87UOXw6dwlD8aqMvIxH3zfG1sVAQspjkx02bOjATonB8C4Wo_Ty-9hJbVgW"
+    },
+    {
+        "car_id": 85,
+        "car_name": "Subaru BRZ",
+        "car_cost": 62500,
+        "car_cat": "Sports",
+        "car_desc": "A rugged and versatile all-wheel-drive SUV.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT07KQSGw1Fcy3pUxSy1nVQOYnxPJtTcahnwnq4EtKrvwn4NRINDpk3j-B2IRVw"
+    },
+    {
+        "car_id": 86,
+        "car_name": "Jeep Gladiator",
+        "car_cost": 63000,
+        "car_cat": "Truck",
+        "car_desc": "An iconic off-road vehicle with exceptional capability.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1IdmuJaKRAMgcuJp-6l00KjObwLWLlJOQTqhz1L8V6pONG9DzhWopzGc7EZRt"
+    },
+    {
+        "car_id": 87,
+        "car_name": "Toyota Tacoma",
+        "car_cost": 63500,
+        "car_cat": "Truck",
+        "car_desc": "A legendary sports car with exceptional performance.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAOGNL81pJOyQdQe5BzpYDvjRTwKYl3gMOpQZz-jvTbR7YyRF_dJKCzZ5zsfY7"
+    },
+    {
+        "car_id": 88,
+        "car_name": "Nissan Frontier",
+        "car_cost": 64000,
+        "car_cat": "Truck",
+        "car_desc": "A comfortable and fuel-efficient midsize sedan.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmK7cJNauBcgFgCmmJPYUrLUbXcfRb2uQZh7QYIuzUqMe6s7M1-vcv5m3iaVz5"
+    },
+    {
+        "car_id": 89,
+        "car_name": "Hyundai Kona",
+        "car_cost": 64500,
+        "car_cat": "Sports",
+        "car_desc": "A reliable and stylish sedan with advanced safety features.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtARVjQVAqXRQOEdim9IY2GiqD4jUAgugb6Ea6duXhRjkWo5aP36gzpVffLLsm"
+    },
+    {
+        "car_id": 90,
+        "car_name": "Kia Stinger",
+        "car_cost": 65000,
+        "car_cat": "Sedan",
+        "car_desc": "A high-performance electric sedan with a long range.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Uz0Hlxywr6zUaI58ZffQs96fgkYpNQoitufBNDhePNSBuX1AEbEi_BtI7YWp"
+    },
+    {
+        "car_id": 91,
+        "car_name": "Mazda MX-5 Miata",
+        "car_cost": 65500,
+        "car_cat": "Sports",
+        "car_desc": "A powerful and versatile pickup truck.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMLNQfAF75nt_5_1j-r202jHxNfR15wR3Ei5YiADlogFlNbaQcIuVafgDKAs5z"
+    },
+    {
+        "car_id": 92,
+        "car_name": "Volkswagen Tiguan",
+        "car_cost": 66000,
+        "car_cat": "Truck",
+        "car_desc": "A durable and capable full-size pickup truck.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbuw62owTFbDRIxGIkO2DvtENj6sR6JTMdLfu1d43_nVaIcBo5_ah1NJ61CaCv"
+    },
+    {
+        "car_id": 93,
+        "car_name": "Volvo V60",
+        "car_cost": 66500,
+        "car_cat": "Electric",
+        "car_desc": "A sporty and luxurious compact sedan.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGl05XePV5YdXusavn-5jQhCKMbo2iMmo1kiutujszr1o--xo1uUk7J4Q-rv4s"
+    },
+    {
+        "car_id": 94,
+        "car_name": "Lexus GX",
+        "car_cost": 67000,
+        "car_cat": "Luxury",
+        "car_desc": "A stylish and practical luxury SUV.",
+        "car_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTR7SSQcLxYc9Y4qdTVs79PRGAxQfM9phsSi2Q2SPBvKHMDdZu6i9Cser2kO3-S"
+    },
+    {
+        "car_id": 95,
+        "car_name": "Acura RDX",
+        "car_cost": 67500,
+        "car_cat": "SUV",
+        "car_desc": "A sophisticated and well-appointed luxury sedan.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUF-ZB1h3oIR6sfDerJBhfd0AC360tRY0vXUEgnb-EfliQG2-grAx-o-M9Hq8w"
+    },
+    {
+        "car_id": 96,
+        "car_name": "Infiniti QX50",
+        "car_cost": 68000,
+        "car_cat": "SUV",
+        "car_desc": "A rugged and versatile all-wheel-drive SUV.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR37LD2SlQ52YOexNc111qD21_zXh-4lT9f7Fhl1qw4W6NOXtZyz-BzXGXrBMvy"
+    },
+    {
+        "car_id": 97,
+        "car_name": "Cadillac CT6",
+        "car_cost": 68500,
+        "car_cat": "Sedan",
+        "car_desc": "An iconic off-road vehicle with exceptional capability.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT3JZQtIn_YHr_65ezTUlXbL5tpuIFjgk7S2w5leLZRDFH1F0QvniY-wKTxzXm"
+    },
+    {
+        "car_id": 98,
+        "car_name": "Jaguar XJ",
+        "car_cost": 69000,
+        "car_cat": "Sedan",
+        "car_desc": "A legendary sports car with exceptional performance.",
+        "car_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4BHCyvAh1NeriApTITlVzfWwBn5diJzoPogFPbHEGbfyvwAskw1qYZky95xHH"
+    },
+    {
+        "car_id": 99,
+        "car_name": "Land Rover Defender",
+        "car_cost": 69500,
+        "car_cat": "Sedan",
+        "car_desc": "A comfortable and fuel-efficient midsize sedan.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT296YSAACdfVil4XbywgYjLUdQP85dE5se1grsFZ5BFb_uRHy8kCwlhQxdpFxK"
+    },
+    {
+        "car_id": 100,
+        "car_name": "Alfa Romeo 4C",
+        "car_cost": 70000,
+        "car_cat": "Luxury",
+        "car_desc": "A reliable and stylish sedan with advanced safety features.",
+        "car_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-XADIng3WyCOYPC7xeZA9UJ8ogx6SsRXDqUC90RhPKWZxMehWKRqqory1Jt42"
+    }
+]
