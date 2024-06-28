@@ -1,2 +1,2 @@
-const url = "https://car-shop-69gh.onrender.com";
+const url = "Your back_end_deployed_url";
 export default url;
